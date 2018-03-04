@@ -1,0 +1,13 @@
+﻿#EXTM3U8
+#EXTINF:-1,Manoto 1080P
+https://s3.eu-west-2.amazonaws.com/manos-live-001/profile2/out_0_1500.m3u8
+#EXTINF:-1,Manoto 720P
+https://s3.eu-west-2.amazonaws.com/manos-live-001/profile2/out_0_500.m3u8
+#EXTINF:-1,Manoto Satellite TV
+rtsp://63.237.48.28:5544/MANOTO_1
+#EXTINF:-1,Radio Javan TV
+https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1,Caltex Music TV
+http://54.148.137.208/hls/caltextv.m3u8
+#EXTINF:-1,VOA Persian 540P
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0540_av-b.m3u8?sd=10&rebase=on
