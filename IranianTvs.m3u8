@@ -11,10 +11,6 @@ https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
 http://54.148.137.208/hls/caltextv.m3u8
 #EXTINF:-1,VOA Persian 540P
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0540_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,AIO Sport 720P
-https://thr-pltv-6.aionet.ir/hls.m3u8?mwk=68581759900002291408671518595709187329&s=75619690608197151385417224202259116643&client=videojs&version=4.12
-#EXTINF:-1,AIO Sport 480P
-https://thr-pltv-6.aionet.ir/hls.m3u8?mwk=68581759900002291408671518595709187329&s=69532116042294509042627008985966950833&client=videojs&version=4.12
 #EXTINF:-1,Real Madrid English TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Abadan TV
