@@ -28,7 +28,7 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:khorasanshomali/chunklist_b30720
 #EXTINF:-1,Razavi Khorasan
 http://cdn1.live.irib.ir:1935/channel-live/smil:khorasanrazavi/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Isfahan TV
-http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/chunklist_b307200_slFa.m3u8
+http://sa15.telewebion.com:1935/devices/_definst_/esfahan-500k.stream/chunklist_w840013280.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTMvNi8yMDE4IDU6NDc6MiBBTSZoYXNoX3ZhbHVlPVVZSm5kdmtJMWtkNmdJTk12ZEtHMFE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA%3D%3D
 #EXTINF:-1,Yazd TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:taban/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Jahan Bin TV
@@ -36,11 +36,11 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:jahanbin/chunklist_b307200_slFa.
 #EXTINF:-1,Loristan TV - Aflak 
 http://cdn1.live.irib.ir:1935/channel-live/smil:aflak/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Khoozestan TV
-http://cdn1.live.irib.ir:1935/channel-live/smil:khoozestan/chunklist_b307200_slFa.m3u8
+http://sa16.telewebion.com:1935/devices/_definst_/khoozestan-500k.stream/chunklist_w1438651172.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTMvNi8yMDE4IDU6NDc6MiBBTSZoYXNoX3ZhbHVlPVVZSm5kdmtJMWtkNmdJTk12ZEtHMFE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA%3D%3D
 #EXTINF:-1,West Azerbaijan 
 http://cdn1.live.irib.ir:1935/channel-live/smil:azarbayjan/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,East Azerbaijan 
-http://cdn1.live.irib.ir:1935/channel-live/smil:sahand/chunklist_b307200_slFa.m3u8
+http://sa15.telewebion.com:1935/devices/_definst_/sahand-500k.stream/chunklist_w1750771142.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTMvNi8yMDE4IDU6NDk6MTEgQU0maGFzaF92YWx1ZT1jRW1kcDk3RkNHVnhEcS9CbGxQTmpBPT0mdmFsaWRtaW51dGVzPTYwMDA%3D
 #EXTINF:-1,Dena TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:dena/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Bushehr TV
@@ -62,7 +62,7 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:aftab/chunklist_b307200_slFa.m3u
 #EXTINF:-1,Qom TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:noor/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Gilan TV
-http://cdn1.live.irib.ir:1935/channel-live/smil:baran/chunklist_b307200_slFa.m3u8
+http://sa14.telewebion.com:1935/devices/_definst_/baran-500k.stream/chunklist_w1014137102.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTMvNi8yMDE4IDU6NDY6NTggQU0maGFzaF92YWx1ZT1VUE9jbVEycjc4SlFxV0s4OFpEVlpRPT0mdmFsaWRtaW51dGVzPTYwMDA%3D
 #EXTINF:-1,Qazvin TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:qazvin/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Hamoon TV
@@ -74,12 +74,12 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:kerman/chunklist_b307200_slFa.m3
 #EXTINF:-1,Ilam TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:ilam/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Kurdistan TV
-http://cdn1.live.irib.ir:1935/channel-live/smil:kordestan/chunklist_b307200_slFa.m3u8
+http://sl8.telewebion.com:1935/devices/_definst_/kordestan-500k.stream/chunklist_w712821221.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTMvNi8yMDE4IDU6NDY6NTkgQU0maGFzaF92YWx1ZT1SYXVKajl6V3NVbjRhVlFzc3J1REFnPT0mdmFsaWRtaW51dGVzPTYwMDA%3D
 #EXTINF:-1,KermanShah TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:kermanshah/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Ardebil TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:sabalan/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Golestan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:golestan/chunklist_b307200_slFa.m3u8
-#EXTINF:-1,Mazandaran TV
-http://cdn1.live.irib.ir:1935/channel-live/smil:mazandaran/chunklist_b307200_slFa.m3u8
+#EXTINF:-1,Jaam am TV
+http://sl14.telewebion.com:1935/devices/_definst_/jj1-500k.stream/chunklist_w725429576.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTMvNi8yMDE4IDU6NDQ6NTAgQU0maGFzaF92YWx1ZT1oaHZTR3g1VFFXZDRTM2Eza2N4K3Z3PT0mdmFsaWRtaW51dGVzPTYwMDA%3D
