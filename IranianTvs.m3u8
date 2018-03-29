@@ -1,8 +1,16 @@
 ﻿#EXTM3U8
-#EXTINF:-1,Manoto 1080P
-https://s3.eu-west-2.amazonaws.com/manos-live-001/profile2/out_0_1500.m3u8
-#EXTINF:-1,Manoto 720P
-https://s3.eu-west-2.amazonaws.com/manos-live-001/profile2/out_0_500.m3u8
+#EXTINF:-1,Manoto 1080P 2285kbps
+https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
+#EXTINF:-1,Manoto 1080p 1211kbps
+https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
+#EXTINF:-1,Manoto 720p 908kbps
+https://d6kn5bcgzkd2t.cloudfront.net/live_750.m3u8
+#EXTINF:-1,Manoto 720p 640kbps
+https://d6kn5bcgzkd2t.cloudfront.net/live_500.m3u8
+#EXTINF:-1,Manoto 360p 337kbps
+https://d6kn5bcgzkd2t.cloudfront.net/live_250.m3u8
+#EXTINF:-1,Manoto 360p 197kbps
+https://d6kn5bcgzkd2t.cloudfront.net/live_120.m3u8
 #EXTINF:-1,Manoto Satellite TV
 rtsp://63.237.48.28:5544/MANOTO_1
 #EXTINF:-1,Radio Javan TV
@@ -13,8 +21,6 @@ http://54.148.137.208/hls/caltextv.m3u8
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_0540_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Real Madrid English TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Iseema TV
-http://ems12.iseema.ir:8082/tv0124-1100_$ts=30$.m3u8?pass=d7fb2402-602c-4bbc-9b11-a8098c7217a8&lang=2&fe=getlist
 #EXTINF:-1,Abadan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/chunklist_b307200_slFa.m3u8
 #EXTINF:-1,Mahabad TV
