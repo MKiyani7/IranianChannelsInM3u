@@ -1,16 +1,16 @@
 ﻿#EXTM3U8
 #EXTINF:-1,Manoto 1080P 2285kbps
-https://13.32.158.37/live_1500.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
 #EXTINF:-1,Manoto 1080p 1211kbps
-https://13.32.158.37/live_1000.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
 #EXTINF:-1,Manoto 720p 908kbps
-https://13.32.158.37/live_750.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_750.m3u8
 #EXTINF:-1,Manoto 720p 640kbps
-https://13.32.158.37/live_500.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_500.m3u8
 #EXTINF:-1,Manoto 360p 337kbps
-https://13.32.158.37/live_250.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_250.m3u8
 #EXTINF:-1,Manoto 360p 197kbps
-https://13.32.158.37/live_120.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_120.m3u8
 #EXTINF:-1,Manoto Satellite TV
 rtsp://63.237.48.28:5544/MANOTO_1
 #EXTINF:-1,Radio Javan TV
