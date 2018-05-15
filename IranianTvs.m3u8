@@ -17,7 +17,7 @@ rtsp://63.237.48.28:5544/MANOTO_1
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1,Caltex Music TV
 http://54.148.137.208/hls/caltextv.m3u8
-#EXTINF:-1,VOA Persian 540P
+#EXTINF:-1,VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:-1,Real Madrid English TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
