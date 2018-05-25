@@ -1,25 +1,25 @@
 ﻿#EXTM3U8
-#EXTINF:-1,Manoto 1080P 2285kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/70hg_manoto_fhd_high.png" ,Manoto 1080P 2285kbps
 https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
-#EXTINF:-1,Manoto 1080p 1211kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/d1n_manoto_fhd_low.png" ,Manoto 1080p 1211kbps
 https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
-#EXTINF:-1,Manoto 720p 908kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/9a6s_manoto_hd_high.png" ,Manoto 720p 908kbps
 https://d6kn5bcgzkd2t.cloudfront.net/live_750.m3u8
-#EXTINF:-1,Manoto 720p 640kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/dfnv_manoto_hd_low.png" ,Manoto 720p 640kbps
 https://d6kn5bcgzkd2t.cloudfront.net/live_500.m3u8
-#EXTINF:-1,Manoto 360p 337kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/q4je_manoto_ld_high.png" ,Manoto 360p 337kbps
 https://d6kn5bcgzkd2t.cloudfront.net/live_250.m3u8
-#EXTINF:-1,Manoto 360p 197kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/8z18_manoto_ld_low.png" ,Manoto 360p 197kbps
 https://d6kn5bcgzkd2t.cloudfront.net/live_120.m3u8
-#EXTINF:-1,Manoto Satellite TV
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/pcdf_rtsp.png" ,Manoto Satellite TV
 rtsp://63.237.48.28:5544/MANOTO_1
-#EXTINF:-1,Radio Javan TV
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/nahs_rjtv-1.jpg" ,Radio Javan TV
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1,Caltex Music TV
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/2h8x_caltex.jpg" ,Caltex Music TV
 http://54.148.137.208/hls/caltextv.m3u8
-#EXTINF:-1,VOA Persian
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/l152_loz0ozbiruwlx5cswgcr_voa_farsi_livestation-1.png" ,VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1,Real Madrid English TV
+#EXTINF:-1 "http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" ,Real Madrid English TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Abadan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/chunklist_b307200_slFa.m3u8
