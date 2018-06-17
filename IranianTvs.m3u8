@@ -13,6 +13,14 @@ https://d6kn5bcgzkd2t.cloudfront.net/live_250.m3u8
 https://d6kn5bcgzkd2t.cloudfront.net/live_120.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/pcdf_rtsp.png" ,Manoto Satellite TV
 rtsp://63.237.48.28:5544/MANOTO_1
+#EXTINF:-1,IRIB TV3 1080p
+http://sa21.telewebion.com:1935/devices/_definst_/tv3-2000k.stream/chunklist_w1587882653.m3u8
+#EXTINF:-1,IRIB TV3 480p
+http://sa21.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/chunklist_w1473064598.m3u8
+#EXTINF:-1,IRIB Nasim 486p
+http://sl20.telewebion.com:1935/devices/_definst_/nasim-1000k.stream/chunklist_w183548951.m3u8
+#EXTINF:-1,IRIB Namayesh 486p
+http://sl23.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/chunklist_w1126436308.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/nahs_rjtv-1.jpg" ,Radio Javan TV
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/2h8x_caltex.jpg" ,Caltex Music TV
