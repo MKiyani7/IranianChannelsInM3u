@@ -13,6 +13,8 @@ https://d6kn5bcgzkd2t.cloudfront.net/live_250.m3u8
 https://d6kn5bcgzkd2t.cloudfront.net/live_120.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/pcdf_rtsp.png" ,Manoto Satellite TV
 rtsp://63.237.48.28:5544/MANOTO_1
+#EXTINF:-1,ITV
+https://live.tvplayer.com/itv/5/prog_index.m3u8
 #EXTINF:-1,IRIB TV3 1080p
 http://sa21.telewebion.com:1935/devices/_definst_/tv3-2000k.stream/chunklist_w1587882653.m3u8
 #EXTINF:-1,IRIB TV3 480p
