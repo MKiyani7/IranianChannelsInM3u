@@ -23,6 +23,14 @@ http://sa21.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/chunklist_w14
 http://sl20.telewebion.com:1935/devices/_definst_/nasim-1000k.stream/chunklist_w183548951.m3u8
 #EXTINF:-1,IRIB Namayesh 486p
 http://sl23.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/chunklist_w1126436308.m3u8
+#EXTINF:-1,IRIB Aio sport 1 HD
+https://thr-pltv-6.aionet.ir/hls.m3u8?mwk=5172672086233917904154771615067192147&s=77895744563890784118623701818905769667&client=videojs&version=4.12
+#EXTINF:-1,IRIB Aio sport 2 HD
+https://thr-pltv-1.aionet.ir/hls.m3u8?mwk=51099907836589564685865037154579822535&s=88761274688518828885461871960265606269&client=videojs&version=4.12
+#EXTINF:-1,IRIB Aio sport 1 SD
+https://thr-pltv-6.aionet.ir/hls.m3u8?mwk=51490833123044154617760985838714206655&s=54913285617561166672716552828495807069&client=videojs&version=4.12
+#EXTINF:-1,IRIB Aio sport 2 SD
+https://thr-pltv-4.aionet.ir/hls.m3u8?mwk=46368270802776795694924711326358485204&s=8460128607532885165443257668360781578&client=videojs&version=4.12
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/nahs_rjtv-1.jpg" ,Radio Javan TV
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/2h8x_caltex.jpg" ,Caltex Music TV
