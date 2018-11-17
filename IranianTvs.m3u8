@@ -1,27 +1,17 @@
 #EXTM3U8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/70hg_manoto_fhd_high.png" ,Manoto 1080P 2285kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/70hg_manoto_fhd_high.png" ,Manoto 1080P
 https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/d1n_manoto_fhd_low.png" ,Manoto 1080p 1211kbps
-https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/9a6s_manoto_hd_high.png" ,Manoto 720p 908kbps
-https://d6kn5bcgzkd2t.cloudfront.net/live_750.m3u8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/dfnv_manoto_hd_low.png" ,Manoto 720p 640kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/9a6s_manoto_hd_high.png" ,Manoto 720p
 https://d6kn5bcgzkd2t.cloudfront.net/live_500.m3u8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/q4je_manoto_ld_high.png" ,Manoto 360p 337kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/q4je_manoto_ld_high.png" ,Manoto 360p
 https://d6kn5bcgzkd2t.cloudfront.net/live_250.m3u8
-#EXTINF:-1 tvg-logo="http://uupload.ir/files/8z18_manoto_ld_low.png" ,Manoto 360p 197kbps
+#EXTINF:-1 tvg-logo="http://uupload.ir/files/8z18_manoto_ld_low.png" ,Manoto 360p Low Bitrate (for freaking slow connections)
 https://d6kn5bcgzkd2t.cloudfront.net/live_120.m3u8
-#EXTINF:-1,IRIB TV3 720p
-http://94.182.148.102/live-53/53_tv3.stream_hd720.m3u8
-#EXTINF:-1,IRIB TV3 540p
-http://94.182.148.102/live-53/53_tv3.stream_high.m3u8
-#EXTINF:-1,IRIB TV3 480p (sv1)
-http://94.182.148.102/live-53/53_tv3.stream_mid.m3u8
-#EXTINF:-1,IRIB TV3 480p (sv2)
+#EXTINF:-1,IRIB TV3 480p
 http://sa21.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/chunklist_w1473064598.m3u8
-#EXTINF:-1,IRIB Nasim 486p
+#EXTINF:-1,IRIB Nasim 480p
 http://sl20.telewebion.com:1935/devices/_definst_/nasim-1000k.stream/chunklist_w183548951.m3u8
-#EXTINF:-1,IRIB Namayesh 486p
+#EXTINF:-1,IRIB Namayesh 480p
 http://sl23.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/chunklist_w1126436308.m3u8
 #EXTINF:-1 tvg-logo="http://uupload.ir/files/nahs_rjtv-1.jpg" ,Radio Javan TV
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/playlist.m3u8
